@@ -1,1 +1,26 @@
-/* your code */
+thead{
+	background-color:#2E5077;
+	color:white;
+}
+table{
+	background-color:#F1EFEC;
+	padding:5px;
+	border-radius:10px;
+	width:80%;
+	border:1px solid black;
+}
+tr:nth-child(even){
+	background-color:white;
+}
+.name{
+	text-align:left;
+	padding:10px;
+	width:100px
+}
+tr td{
+	text-align:center;
+}
+
+
+
+
